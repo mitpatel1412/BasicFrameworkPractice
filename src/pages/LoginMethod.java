@@ -34,7 +34,7 @@ public class LoginMethod {
 		return err;
 	}
 	public void test1(){
-		System.out.println("hello");
+		System.out.println("Hi");
 	}
 
 }
