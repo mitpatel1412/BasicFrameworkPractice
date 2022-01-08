@@ -33,5 +33,8 @@ public class LoginMethod {
 		String err = driver.findElement(By.className("_9ay7")).getText();
 		return err;
 	}
+	public void test1(){
+		int x = 0;
+	}
 
 }
